@@ -1,7 +1,8 @@
 # gcpCodeSnippet
  Google cloud platform Java API code snippets
  
- Using Google cloud platform Java API code we can better manage the Dataproc cluster.
+ Using Google cloud platform Java API code we can manage the Dataproc cluster in a better way.
+ Sample code to create Dataproc cluster using GCP Java API.
  
  DataprocClusterCreate Class
  
